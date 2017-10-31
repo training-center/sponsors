@@ -15,7 +15,7 @@ Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](ht
     <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
   </a>
   <a href="http://frontux.com/" title="FrontUX">
-    <img src="/img/frontux-logo.png" alt="Logo FrontUX">
+    <img src="https://github.com/training-center/sponsors/blob/master/img/frontux-logo.png" alt="Logo FrontUX">
   </a>
 </p>
 
