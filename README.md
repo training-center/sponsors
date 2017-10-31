@@ -19,7 +19,7 @@ Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](ht
   </a>
 </p>
 
-## Cursos que temos descontos
+## Cursos com descontos
 
 O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na prática do [Willian Justen](https://github.com/willianjusten).
 
