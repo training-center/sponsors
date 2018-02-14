@@ -14,6 +14,16 @@ Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](ht
 - [Desconto em cursos](#cursos-com-descontos)
 - [Divulgação](#divulga%C3%A7%C3%A3o)
 
+## Patrocínio
+
+A Umbler nos ajuda enviando brindes para nossa comunidade e cedendo hospedagem gratuita para nosso site.
+
+<p align="center">
+  <a href="https://www.umbler.com" title="Umbler">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_umbler.png" alt="Banner do site da Umbler">
+  </a>
+</p>
+
 ## Apoio
 
 A Duonerds nos apoia enviando brindes para distribuirmos para a comunidade.
