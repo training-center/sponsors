@@ -8,6 +8,12 @@ Todos os nossos custos e quanto dinheiro entra são divulgados na planilha que �
 
 Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](https://github.com/training-center/sobre/).
 
+## Índice
+
+- [Apoio](#apoio)
+- [Desconto em cursos](#cursos-com-descontos)
+- [Divulgação](#divulga%C3%A7%C3%A3o)
+
 ## Apoio
 
 A Duonerds nos apoia enviando brindes para distribuirmos para a comunidade.
