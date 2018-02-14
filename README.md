@@ -26,8 +26,6 @@ A Umbler nos ajuda enviando brindes para nossa comunidade e cedendo hospedagem g
 
 ## Apoio
 
-A Duonerds nos apoia enviando brindes para distribuirmos para a comunidade.
-
 <p align="center">
   <a href="https://duonerds.com.br" title="Duonerds">
     <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_duonerds-middle.png" alt="Banner do site Duonerds">
