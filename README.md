@@ -8,17 +8,6 @@ Todos os nossos custos e quanto dinheiro entra são divulgados na planilha que �
 
 Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](https://github.com/training-center/sobre/).
 
-## Divulgação
-
-<p align="center">
-  <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
-    <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
-  </a>
-  <a href="http://frontux.com/" title="FrontUX">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/frontux-logo.png" alt="Logo FrontUX">
-  </a>
-</p>
-
 ## Apoio
 
 A Duonerds nos apoia enviando brindes para distribuirmos para a comunidade.
@@ -84,5 +73,18 @@ O cupom de desconto **PROMOCT20** garante **85%** de desconto no Curso [Lógica 
 <p align="center">
   <a href="https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=PROMOCT20" title="Lógica de programação com Javascript">
     <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_LogicaJS.jpg" alt="Banner do Curso de Lógica de programação com Javascript">
+  </a>
+</p>
+
+## Divulgação
+
+Empresas e comunidades que nos apoiam divulgando o Training Center
+
+<p align="center">
+  <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
+    <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
+  </a>
+  <a href="http://frontux.com/" title="FrontUX">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/frontux-logo.png" alt="Logo FrontUX">
   </a>
 </p>
