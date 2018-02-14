@@ -87,4 +87,7 @@ Empresas e comunidades que nos apoiam divulgando o Training Center
   <a href="http://frontux.com/" title="FrontUX">
     <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/frontux-logo.png" alt="Logo FrontUX">
   </a>
+  <a href="https://www.codamos.club/" title="Codamos">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/codamos-logo.png" alt="Logo Codamos">
+  </a>
 </p>
