@@ -19,6 +19,16 @@ Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](ht
   </a>
 </p>
 
+## Apoio
+
+A Duonerds nos apoia enviando brindes para distribuirmos para a comunidade.
+
+<p align="center">
+  <a href="https://duonerds.com.br" title="Duonerds">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_duonerds.png" alt="Banner do site Duonerds">
+  </a>
+</p>
+
 ## Cursos com descontos
 
 O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na prática do [Willian Justen](https://github.com/willianjusten).
