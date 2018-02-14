@@ -30,6 +30,9 @@ A Umbler nos ajuda enviando brindes para nossa comunidade e cedendo hospedagem g
   <a href="https://duonerds.com.br" title="Duonerds">
     <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_duonerds-middle.png" alt="Banner do site Duonerds">
   </a>
+  <a href="https://www.alura.com.br/" title="Alura">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_alura-middle.png" alt="Banner do site do Alura">
+  </a>
 </p>
 
 ## Cursos com descontos
