@@ -43,6 +43,14 @@ A Umbler nos ajuda enviando brindes para nossa comunidade e cedendo hospedagem g
 
 ## Cursos com descontos
 
+O cupom **TRAINING-CENTER** garante **38%** de desconto no Curso "FrontEnd básico, do zero a uma página com HTML e CSS" da [Fernanda Bernardo](https://github.com/FernandaBernardo).
+
+<p align="center">
+  <a href="https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER" title="Curso FrontEnd básico, do zero a uma página com HTML e CSS">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_frontend_basico.png" alt="Imagem do Curso FrontEnd básico, do zero a uma página com HTML e CSS">
+  </a>
+</p>
+
 O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na prática do [Willian Justen](https://github.com/willianjusten).
 
 <p align="center">
