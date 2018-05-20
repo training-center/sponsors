@@ -51,14 +51,6 @@ O cupom **TRAINING-CENTER** garante **38%** de desconto no Curso "FrontEnd bási
   </a>
 </p>
 
-O cupom de desconto **TRAINING** garante 20% em todo o site da [Editora Novatec](http://novatec.com.br/)
-
-<p align="center">
-  <a href="http://novatec.com.br/" title="Editora Novatec">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_novatec.png" alt="Banner da Editora Novatec">
-  </a>
-</p>
-
 O cupom de desconto **CTNINJA** garante 23% no Curso JavaScript Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
 
 <p align="center">
