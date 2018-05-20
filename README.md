@@ -113,7 +113,7 @@ Empresas e comunidades que nos apoiam divulgando o Training Center
 
 <p align="center">
   <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
-    <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
+    <img src="https://devnaestrada.com.br/assets/img/logo-dne.svg" height="45" alt="Logo DevNaEstrada">
   </a>
   <a href="http://frontux.com/" title="FrontUX">
     <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/frontux-logo.png" alt="Logo FrontUX">
