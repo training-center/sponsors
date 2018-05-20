@@ -41,7 +41,7 @@ A Umbler nos ajuda enviando brindes para nossa comunidade e cedendo hospedagem g
   </a>
 </p>
 
-## Cursos com descontos
+## Cupons de Desconto
 
 O cupom de desconto **COMUNIDADETC** garante **100%** de desconto no Curso [Lógica de programação com **Javascript**](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC).
 
