@@ -51,14 +51,6 @@ O cupom **TRAINING-CENTER** garante **38%** de desconto no Curso "FrontEnd bási
   </a>
 </p>
 
-O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na prática do [Willian Justen](https://github.com/willianjusten).
-
-<p align="center">
-  <a href="http://bit.ly/js-tdd-ct" title="Curso JavaScript com TDD na prática">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_js-tdd.png" alt="Imagem do Curso JavaScript com TDD na prática">
-  </a>
-</p>
-
 O cupom de desconto **TRAINING** garante 20% em todo o site da [Editora Novatec](http://novatec.com.br/)
 
 <p align="center">
