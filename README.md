@@ -83,14 +83,6 @@ O cupom **TRAINING-CENTER** garante **38%** de desconto no Curso "FrontEnd bási
   </a>
 </p>
 
-O cupom de desconto **TRAINING-CENTER** garante **38%** de desconto no Curso [FrontEnd básico, do zero a uma página com HTML e CSS](https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER).
-
-<p align="center">
-  <a href="https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER" title="Curso FrontEnd básico, do zero a uma página com HTML e CSS">
-    <img src="https://udemy-images.udemy.com/course/480x270/1268562_1a6d_3.jpg" alt="FrontEnd básico, do zero a uma página com HTML e CSS">
-  </a>
-</p>
-
 O cupom de desconto **CTNINJA** garante **23%** no Curso JavaScript Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
 
 <p align="center">
