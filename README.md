@@ -43,43 +43,11 @@ A Umbler nos ajuda enviando brindes para nossa comunidade e cedendo hospedagem g
 
 ## Cursos com descontos
 
-O cupom **TRAINING-CENTER** garante **38%** de desconto no Curso "FrontEnd básico, do zero a uma página com HTML e CSS" da [Fernanda Bernardo](https://github.com/FernandaBernardo).
+O cupom de desconto **COMUNIDADETC** garante **100%** de desconto no Curso [Lógica de programação com **Javascript**](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC).
 
 <p align="center">
-  <a href="https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER" title="Curso FrontEnd básico, do zero a uma página com HTML e CSS">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_frontend_basico.png" alt="Imagem do Curso FrontEnd básico, do zero a uma página com HTML e CSS">
-  </a>
-</p>
-
-O cupom de desconto **CTNINJA** garante 23% no Curso JavaScript Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
-
-<p align="center">
-  <a href="https://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
-  </a>
-</p>
-
-O cupom de desconto **CTSHORTCUT** garante 15% no Curso de Organização de CSS, do [Afonso Pacifer](https://github.com/afonsopacifer).
-
-<p align="center">
-  <a href="https://csshortcut.github.io" title="Curso CSShortcut do Afonso Pacifer">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_csshortcut.png" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
-  </a>
-</p>
-
-O cupom de desconto **CTSTICKERS** garante 15% em todo o site [Stickers Devs](https://www.stickersdevs.com.br/)
-
-<p align="center">
-  <a href="https://www.stickersdevs.com.br/" title="Stickers Devs">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_stickersdevs.png" alt="Banner do site Stickers Devs">
-  </a>
-</p>
-
-O cupom de desconto **COMUNIDADETC** garante **83%** de desconto no Curso [Javascript completo 2018. Do iniciante ao mestre](https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC).
-
-<p align="center">
-  <a href="https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC" title="Lógica de programação com Javascript">
-    <img src="https://udemy-images.udemy.com/course/480x270/1420982_0f8d.jpg">
+  <a href="https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC" title="Lógica de programação com Javascript">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_LogicaJS.jpg" alt="Banner do Curso de Lógica de programação com Javascript">
   </a>
 </p>
 
@@ -99,11 +67,19 @@ O cupom de desconto **COMUNIDADETC** garante **89%** de desconto no Curso [Javas
   </a>
 </p>
 
-O cupom de desconto **COMUNIDADETC** garante **100%** de desconto no Curso [Lógica de programação com **Javascript**](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC).
+O cupom de desconto **COMUNIDADETC** garante **83%** de desconto no Curso [Javascript completo 2018. Do iniciante ao mestre](https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC).
 
 <p align="center">
-  <a href="https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC" title="Lógica de programação com Javascript">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_LogicaJS.jpg" alt="Banner do Curso de Lógica de programação com Javascript">
+  <a href="https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC" title="Lógica de programação com Javascript">
+    <img src="https://udemy-images.udemy.com/course/480x270/1420982_0f8d.jpg">
+  </a>
+</p>
+
+O cupom **TRAINING-CENTER** garante **38%** de desconto no Curso "FrontEnd básico, do zero a uma página com HTML e CSS" da [Fernanda Bernardo](https://github.com/FernandaBernardo).
+
+<p align="center">
+  <a href="https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER" title="Curso FrontEnd básico, do zero a uma página com HTML e CSS">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_frontend_basico.png" alt="Imagem do Curso FrontEnd básico, do zero a uma página com HTML e CSS">
   </a>
 </p>
 
@@ -115,6 +91,30 @@ O cupom de desconto **TRAINING-CENTER** garante **38%** de desconto no Curso [Fr
   </a>
 </p>
 
+O cupom de desconto **CTNINJA** garante **23%** no Curso JavaScript Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
+
+<p align="center">
+  <a href="https://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
+  </a>
+</p>
+
+O cupom de desconto **CTSHORTCUT** garante **15%** no Curso de Organização de CSS, do [Afonso Pacifer](https://github.com/afonsopacifer).
+
+<p align="center">
+  <a href="https://csshortcut.github.io" title="Curso CSShortcut do Afonso Pacifer">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_csshortcut.png" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
+  </a>
+</p>
+
+O cupom de desconto **CTSTICKERS** garante **15%** em todo o site [Stickers Devs](https://www.stickersdevs.com.br/)
+
+<p align="center">
+  <a href="https://www.stickersdevs.com.br/" title="Stickers Devs">
+    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_stickersdevs.png" alt="Banner do site Stickers Devs">
+  </a>
+</p>
+
 O cupom de desconto **trainingcenter** garante **10%** de desconto na assinatura do [Alura](https://www.alura.com.br/promocao/trainingcenter).
 
 <p align="center">
@@ -122,6 +122,8 @@ O cupom de desconto **trainingcenter** garante **10%** de desconto na assinatura
     <img src="./img/banners/alura.png" alt="Alura homepage banner">
   </a>
 </p>
+
+<!-- END COURSES -->
 
 ## Divulgação
 
