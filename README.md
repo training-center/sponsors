@@ -59,10 +59,10 @@ O cupom de desconto **PRMOCT20** garante **89%** de desconto no Curso [Front-end
   </a>
 </p>
 
-O cupom de desconto **COMUNIDADETC** garante **89%** de desconto no Curso [Javascript completo 2018. Do iniciante ao mestre](https://www.udemy.com/curso-web-design-fundamentos-aprenda-html-css-e-javascript/?couponCode=COMUNIDADETC).
+O cupom de desconto **COMUNIDADETC** garante **89%** de desconto no Curso [Curso Web Design Fundamentos: Aprenda HTML CSS e Javascript.](https://www.udemy.com/curso-web-design-fundamentos-aprenda-html-css-e-javascript/?couponCode=COMUNIDADETC).
 
 <p align="center">
-  <a href="https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC" title="Curso Web Design Fundamentos: Aprenda HTML CSS e Javascript">
+  <a href="https://www.udemy.com/curso-web-design-fundamentos-aprenda-html-css-e-javascript/?couponCode=COMUNIDADETC" title="Curso Web Design Fundamentos: Aprenda HTML CSS e Javascript">
     <img src="https://udemy-images.udemy.com/course/480x270/1616938_8f0b.jpg">
   </a>
 </p>
@@ -70,7 +70,7 @@ O cupom de desconto **COMUNIDADETC** garante **89%** de desconto no Curso [Javas
 O cupom de desconto **COMUNIDADETC** garante **83%** de desconto no Curso [Javascript completo 2018. Do iniciante ao mestre](https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC).
 
 <p align="center">
-  <a href="https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC" title="Lógica de programação com Javascript">
+  <a href="https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC" title="Javascript completo 2018. Do iniciante ao mestre">
     <img src="https://udemy-images.udemy.com/course/480x270/1420982_0f8d.jpg">
   </a>
 </p>
@@ -86,7 +86,7 @@ O cupom **TRAINING-CENTER** garante **38%** de desconto no Curso "FrontEnd bási
 O cupom de desconto **TRAINING-CENTER** garante **38%** de desconto no Curso [FrontEnd básico, do zero a uma página com HTML e CSS](https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER).
 
 <p align="center">
-  <a href="https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER" title="Lógica de programação com Javascript">
+  <a href="https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/?couponCode=TRAINING-CENTER" title="Curso FrontEnd básico, do zero a uma página com HTML e CSS">
     <img src="https://udemy-images.udemy.com/course/480x270/1268562_1a6d_3.jpg" alt="FrontEnd básico, do zero a uma página com HTML e CSS">
   </a>
 </p>
