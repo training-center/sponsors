@@ -1,8 +1,6 @@
 ## Training Center - Sponsors
 
-Pessoas que apoiam nossos projetos financeiramente.
-
-Esta comunidade **não possui meios de conseguir renda**
+Pessoas que apoiam nossos projetos com cursos e mais.
 
 Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](https://github.com/training-center/sobre/).
 
