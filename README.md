@@ -2,15 +2,7 @@
 
 Pessoas que apoiam nossos projetos financeiramente.
 
-Esta comunidade **não possui meios de conseguir renda**, porém, você pode doar mensalmente para nosso grupo através do [apoia.se](http://apoia.se/training-center) e garantir a continuação do funcionamento das nossas ferramentas. ;P
-
-<p align="center">
- <a href="http://apoia.se/training-center" title="Apoia.se do Training Center">
-  <img src="/assets/btn-apoiar.png" alt="botão de apoio ao Training Center">
- </a>
-</p>
-
-Todos os nossos custos são divulgados na planilha que é exibida em nosso Apoia.se para mostrar que todo dinheiro que entra pela comunidade retorna para a nossa comunidade.
+Esta comunidade **não possui meios de conseguir renda**
 
 Se você não conhece a nossa comunidade, da uma olhada em nosso [sobre nós](https://github.com/training-center/sobre/).
 
