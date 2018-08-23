@@ -33,19 +33,11 @@ A Umbler nos ajuda enviando brindes para nossa comunidade e cedendo hospedagem g
 
 ## Cupons de Desconto
 
-O cupom de desconto **COMUNIDADETC** garante **100%** de desconto no Curso [Lógica de programação com **Javascript**](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC).
+O cupom de desconto **COMUNIDADETC2** garante **85%** de desconto no Curso [Lógica de programação com **Javascript**](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC2).
 
 <p align="center">
-  <a href="https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC" title="Lógica de programação com Javascript">
+  <a href="https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=COMUNIDADETC2" title="Lógica de programação com Javascript">
     <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_LogicaJS.jpg" alt="Banner do Curso de Lógica de programação com Javascript">
-  </a>
-</p>
-
-O cupom de desconto **PRMOCT20** garante **89%** de desconto no Curso [Front-end moderno: Gulp, SASS, NPM-script e Git](https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20).
-
-<p align="center">
-  <a href="https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20" title="Curso Front-end moderno: Gulp, SASS, NPM-script e Git">
-    <img src="https://raw.githubusercontent.com/training-center/sponsors/master/img/banners/banner_frontend_workflow.png" alt="Banner do Curso Front-end moderno: Gulp, SASS, NPM-script e Git">
   </a>
 </p>
 
@@ -62,6 +54,14 @@ O cupom de desconto **COMUNIDADETC** garante **83%** de desconto no Curso [Javas
 <p align="center">
   <a href="https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/?couponCode=COMUNIDADETC" title="Javascript completo 2018. Do iniciante ao mestre">
     <img src="https://udemy-images.udemy.com/course/480x270/1420982_0f8d.jpg">
+  </a>
+</p>
+
+O cupom de desconto **COMUNIDADETC** garante **76%** de desconto no Curso [Dicas e macetes de CSS. Entenda quando e porquê não funciona](https://www.udemy.com/por-que-meu-css-nao-funciona/?couponCode=COMUNIDADETC).
+
+<p align="center">
+  <a href="https://www.udemy.com/por-que-meu-css-nao-funciona/?couponCode=COMUNIDADETC" title="Dicas e macetes de CSS. Entenda quando e porquê não funciona">
+    <img src="https://udemy-images.udemy.com/course/480x270/1442164_68de_2.jpg">
   </a>
 </p>
 
